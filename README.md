@@ -1,4 +1,5 @@
 # APG-GPTJ-website
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 This is a simple dynamic single-page website developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). The website showcases classical Arabic poetry generated using the GPT-J language model.<br>
 You can view the live website from here: https://apg-gptj-bgpp.onrender.com/
@@ -59,6 +60,7 @@ I would like to express our gratitude to the authors of the research paper "Gene
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this code for academic and non-commercial purposes.
+
 
 ## Contact
 
